@@ -15,6 +15,8 @@ public class CityList {
      * @param city
      *      This is a candidate city to add
      */
+
+
     public void add(City city) {
         if (hasCity(city)) {
             throw new IllegalArgumentException();
