@@ -81,6 +81,6 @@ public class CityList {
     }
 
     public void clearCities() {
-        //cities.clear();
+        cities.clear();
     }
 }
